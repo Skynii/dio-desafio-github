@@ -5,7 +5,8 @@
 ### Em construção 🏗️
 
 ## Projetos:
-    [Contador](Javascript\Contador)
+    [Contador](https://github.com/Skynii/dio-desafio-github/tree/main/Javascript/Contador)
+    [To-do List] ()
 
 ## Tecnologias 👩‍💻
 
