@@ -41,3 +41,4 @@ function divisao(num1, num2){
     return `${terceiraParte} ${metade1} e ${metade2} respectivamente`;
 }
 console.log(comparaNumeros(5, 10));
+
